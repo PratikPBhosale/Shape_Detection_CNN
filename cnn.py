@@ -3,7 +3,7 @@
 """
 Created on Thu Jun 12 13:08:27 2018
 
-@author: keyur-r
+@author: Pratik Bhosale
 """
 
 # CNN classifier
