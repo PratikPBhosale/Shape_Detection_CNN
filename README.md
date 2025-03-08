@@ -21,7 +21,7 @@ Installation
 
 To start with project just follow the few steps 
 
-	$ git clone https://github.com/keyurr2/shape-classifier-cnn.git
+	$ https://github.com/PratikPBhosale/Shape_Detection_CNN.git
 	$ pip install -r requirements.txt
 	
 This will install python libraries required to start with Deep Learning like Tensorflow and Keras
@@ -56,9 +56,4 @@ You can find the confusion matrix and accuracy of model after prediction.
 Authors
 ==================
 
-* **Keyur Rathod (keyur.rathod1993@gmail.com)**
-
-License
-==================
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Pratik Bhosale (pratikb778@gmail.com)**
